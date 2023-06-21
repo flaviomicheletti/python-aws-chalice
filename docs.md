@@ -1,8 +1,5 @@
 # AWS Chalice
 
-- https://aws.github.io/chalice/
-- https://github.com/aws/chalice
-
 
 ## Main topic
 
